@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\UTM\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\UTM\\Tower Tenses\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\UTM\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\UTM\\Tower Tenses\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\UTM\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\UTM\\Tower Tenses\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj",
         "projectName": "TensesTowerAPI",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\UTM\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\UTM\\Tower Tenses\\002. TensesTowerAPI\\TensesTowerAPI\\TensesTowerAPI.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\UTM\\002. TensesTowerAPI\\TensesTowerAPI\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\UTM\\Tower Tenses\\002. TensesTowerAPI\\TensesTowerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -61,6 +65,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.20, )"
             }
           },
           "imports": [
