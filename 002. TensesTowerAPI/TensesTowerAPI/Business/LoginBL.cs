@@ -32,5 +32,10 @@ namespace TensesTowerAPI.Business
 
             return Login;
         }
+
+        public string TestGit()
+        {
+            return "";
+        }
     }
 }
