@@ -9,11 +9,8 @@ namespace TensesTowerAPI.Business
 {
     public class LoginBL
     {
-        private LoginRepo _LoginRepo;
-
-        public LoginBL(LoginRepo LoginRepo)
+        public LoginBL()
         {
-            _LoginRepo = LoginRepo;
         }
 
         public LoginModel Login(string LoginID, string Password)
@@ -22,8 +19,7 @@ namespace TensesTowerAPI.Business
 
             try
             {
-                Login.LoginID = "SOMES";
-                Login.LoginPassword = "1234";
+                Login = null;
             }
             catch (Exception)
             {
