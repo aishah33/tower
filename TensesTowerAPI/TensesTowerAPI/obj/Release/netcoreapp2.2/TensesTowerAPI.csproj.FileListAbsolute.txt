@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\TensesTowerAPI.deps.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\TensesTowerAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\TensesTowerAPI.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\TensesTowerAPI.dll
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\bin\Release\netcoreapp2.2\TensesTowerAPI.pdb
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.dll
+C:\Users\lenovo\Desktop\UTM\Tower Tenses\002. TensesTowerAPI\TensesTowerAPI\obj\Release\netcoreapp2.2\TensesTowerAPI.pdb
